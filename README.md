@@ -50,6 +50,10 @@ After  data collection, at least ten corresponding points are manually  marked i
 - **Baidu Pan**: Download from Baidu Pan with this link: [here](https://pan.baidu.com/s/11n0aGtai1RQP4q22kyNLZQ) and the extraction code: `hqaq`.
 
 
+## License
+
+This dataset is for academic research purpose only.
+
 ## Citation
 
 If you use the TVIH Dataset in your research, please cite our paper. A suggested citation is provided below:
