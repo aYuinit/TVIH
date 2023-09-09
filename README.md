@@ -4,9 +4,9 @@ This Thermal infrared/Visible Images in Haze (TVIH) dataset consists of register
 
 ## Overview
 
-Publicly available datasets comprising visible/thermal infrared image pairs that capture outdoor scenes under natural hazy conditions are limited. In response to this need, we propose the Thermal Infrared/Visible Images in Haze (TVIH) dataset. This dataset includes registered, high-resolution thermal infrared and visible image pairs captured under hazy outdoor conditions. 
+Publicly available datasets comprising visible/thermal infrared image pairs that capture outdoor scenes under natural hazy conditions are limited. In response to this need, we propose the Thermal Infrared/Visible Images in Haze (TVIH) dataset. This dataset includes registered, high-resolution thermal infrared and visible image pairs captured in natural outdoor dense haze and mist scenarios. 
 
-After  data collection, at least ten corresponding points are manually  marked in each image pair to compute the 3×3 homography  matrix. Finally, each visible image is warped and registered  to the corresponding thermal infrared image to achieve pixelto-pixel alignments. Most image resolutions are 1280×1024.
+After data collection, at least ten corresponding points are manually marked in each image pair to compute the 3×3 homography matrix. Finally, each visible image is warped and registered to the corresponding thermal infrared image to achieve pixel-to-pixel alignments. Most image resolutions are 1280×1024.
 
 ## Thermal Infrared/Visible Images in Haze
 
@@ -24,7 +24,6 @@ After  data collection, at least ten corresponding points are manually  marked i
 -  **Quantity:**
   
   + 58  pairs of thermal/visible images in dense haze scenes
-
   + 23  pairs in  thermal/visible images in mist.
   
     
@@ -34,13 +33,13 @@ After  data collection, at least ten corresponding points are manually  marked i
 <p align="center">
   <img src="samples\image_densehaze.png" alt="Alternate text"/>
   <br>
-  <em> Some sample pairs of the visible/thermal images in dense haze</em>
+  <em> Visible/thermal infrared images in dense haze</em>
 </p>
 
 <p align="center">
   <img src="samples\image_mist.png" alt="Alternate text"/>
   <br>
-  <em> Some sample pairs of the visible/thermal images in mist</em>
+  <em> Visible/thermal infrared images in mist</em>
 </p>
 
 
