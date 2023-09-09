@@ -13,19 +13,19 @@ After  data collection, at least ten corresponding points are manually  marked i
 - **Image size**: 1280 x 1024(Most images)
 
 -  **Channels**: 
-  - Infrared: Gray
-  - Visible: RGB
+  + Infrared: Gray
+  + Visible: RGB
   
 -  **Spectral range**: 
   
-  - Thermal infrared: 8 ~ 14µm
-  - Visible: 400 ~  780nm
+  + Thermal infrared: 8 ~ 14µm
+  + Visible: 400 ~  780nm
   
 -  **Quantity:**
   
-  - 58  pairs of thermal/visible images in dense haze scenes
+  + 58  pairs of thermal/visible images in dense haze scenes
 
-  - 23  pairs in  thermal/visible images in mist.
+  + 23  pairs in  thermal/visible images in mist.
   
     
   
@@ -40,7 +40,7 @@ After  data collection, at least ten corresponding points are manually  marked i
 <p align="center">
   <img src="samples\image_mist.png" alt="Alternate text"/>
   <br>
-  <em> Some sample pairs of the visible/thermal images in dense haze</em>
+  <em> Some sample pairs of the visible/thermal images in mist</em>
 </p>
 
 
