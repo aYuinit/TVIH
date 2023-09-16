@@ -58,13 +58,13 @@ This dataset is for academic research purpose only.
 If you use the TVIH Dataset in your research, please cite our paper. A suggested citation is provided below:
 
 ```
-@INPROCEEDINGS{,
+@INPROCEEDINGS{10222916,
   author={Xie, Jiayu and Jin, Xin},
   booktitle={2023 IEEE International Conference on Image Processing (ICIP)}, 
-  title={Thermal infrared guided color image dehazing}, 
+  title={Thermal Infrared Guided Color Image Dehazing}, 
   year={2023},
   volume={},
   number={},
-  pages={1-5},
-  doi={}}
+  pages={2465-2469},
+  doi={10.1109/ICIP49359.2023.10222916}}
 ```
