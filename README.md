@@ -45,7 +45,7 @@ After data collection, at least ten corresponding points are manually marked in 
 
 ## Where to Download
 
-- **Google Drive**: Download from our Google Drive folder available [here](https://drive.google.com/file/d/1CNf9kzmSB2DTtd_KpAFAqB6r2LfUcxgg/view?usp=drive_link).
+- **Google Drive**: Download from our Google Drive folder available [here](https://drive.google.com/file/d/1lkG8-AkhApbCCN7Efp5x6CNcibXSTxD-/view?usp=sharing).
 - **Baidu Pan**: Download from Baidu Pan with this link: [here](https://pan.baidu.com/s/11n0aGtai1RQP4q22kyNLZQ) and the extraction code: `hqaq`.
 
 
